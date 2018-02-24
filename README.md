@@ -1,0 +1,2 @@
+# obrazky
+ignore pictures 
